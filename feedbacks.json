@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "message": "Great website! I love the cultural insights."
+    },
+    {
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "message": "The information on Maldivian language was very informative."
+    },
+    {
+        "name": "David Brown",
+        "email": "david.brown@example.com",
+        "message": "Could you add more details about Maldivian architecture?"
+    },
+    {
+        "name": "Emily White",
+        "email": "emily.white@example.com",
+        "message": "The clothing section is well-written. Thank you!"
+    }
+]
